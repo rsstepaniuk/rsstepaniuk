@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Hello, I'm just an old guy, nothing special. One day I realized I knew nothing about computer code, so here I am learning bit by bit. My background is jet engine and fuel systems repair and robotics maintenance
-  maintenance. Basically a glorified grease monkey! Thanks for your time today.
+  maintenance. Basically a glorified grease monkey! Thanks for your time today.      I can be reached @ rsstepaniuk7@gmail.com
 <!---
 rsstepaniuk/rsstepaniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
